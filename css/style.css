@@ -21,3 +21,19 @@
 .leftinner {
     padding: 5%;
 }
+
+.footerContainer {
+    display: flex;
+}
+
+.footer {
+    margin:auto;
+    width: 100%;
+    text-align: center;
+}
+
+ul {
+    display: inline-block; 
+    margin: auto;
+    text-align: center;
+}
