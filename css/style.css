@@ -11,4 +11,13 @@
     margin-top: 30%;
     border-style: solid;
     border-width: 1px;
+    width: 60%;
+}
+
+.right {
+    width: 40%;
+}
+
+.leftinner {
+    padding: 5%;
 }
