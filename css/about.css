@@ -1,0 +1,41 @@
+.container {
+    display: flex;
+    gap: 300px;
+    padding-bottom: 25px;
+}
+
+.memberBlock img{
+    max-width: 30%;
+    border-radius: 50%;
+}
+
+.left {
+    margin-top: 10%;
+    border-style: solid;
+    border-width: 1px;
+    width: 60%;
+}
+
+.right {
+    width: 40%;
+}
+
+.leftinner {
+    padding: 5%;
+}
+
+.leftinner div p {
+    font-size: large;
+}
+.footerContainer {
+
+    border-style: solid;
+    border-width: 1px;
+}
+
+.footer {
+    margin:auto;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 25px;
+}
